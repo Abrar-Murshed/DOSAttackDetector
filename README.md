@@ -1,6 +1,7 @@
+🛡️ DOS Attack Detector - Blue Team Defensive Tool
+
 Description: A real-time network monitoring tool that detects Denial of Service (DOS) attack focused primarily on SYN packets’ patterns by analyzing traffic signatures and alerting on suspicious activity.
 
-![image.png](attachment:e74aeb17-5d00-49f6-8c9a-1456e22ef5c9:image.png)
 
 ## 🎯 Features
 
